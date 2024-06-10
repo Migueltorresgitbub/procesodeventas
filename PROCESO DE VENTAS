@@ -1,0 +1,71 @@
+# Manual de Proceso de Ventas
+
+## Inmobiliaria SEGUNDA TORRE INMOBILIARIA
+
+**Fecha de Emisión:** 09 de Junio de 2024  
+**Versión:** 1.0  
+**Aprobado por:**  
+[Nombre del Responsable]  
+[Firma]  
+
+---
+
+## Índice
+
+1. [Introducción](#introducción)
+2. [Descripción del Proceso](#descripción-del-proceso)
+3. [Diagrama de Flujo del Proceso](#diagrama-de-flujo-del-proceso)
+4. [Descripción Detallada de las Actividades](#descripción-detallada-de-las-actividades)
+    1. [Prospección](#prospección)
+    2. [Contacto Inicial](#contacto-inicial)
+    3. [Presentación de la Propiedad](#presentación-de-la-propiedad)
+    4. [Seguimiento](#seguimiento)
+    5. [Negociación](#negociación)
+    6. [Cierre de la Venta](#cierre-de-la-venta)
+    7. [Postventa](#postventa)
+5. [Documentación Asociada](#documentación-asociada)
+6. [Indicadores de Desempeño](#indicadores-de-desempeño)
+7. [Control de Cambios](#control-de-cambios)
+
+---
+
+## Introducción
+
+**Propósito del Manual:**  
+El propósito de este manual es proporcionar una guía detallada del proceso de ventas de Inmobiliaria XYZ, asegurando la consistencia y calidad en cada etapa del proceso.
+
+**Alcance del Proceso:**  
+Este manual cubre todas las actividades desde la prospección hasta la postventa para todas las propiedades gestionadas por Inmobiliaria SEGUNDA TORRE INMOBILIARIA.
+
+---
+
+## Descripción del Proceso
+
+**Objetivo del Proceso de Ventas:**  
+Maximizar las ventas de propiedades asegurando la satisfacción del cliente y cumpliendo con los estándares de calidad.
+
+**Responsabilidades y Roles:**
+- **Equipo de Marketing:** Identificación de prospectos.
+- **Agentes de Ventas:** Gestión del contacto inicial, presentación, seguimiento, negociación y cierre.
+- **Departamento Legal:** Formalización de contratos.
+- **Equipo de Atención al Cliente:** Gestión postventa.
+
+---
+
+## Diagrama de Flujo del Proceso
+
+```plaintext
+Prospección --> Contacto Inicial --> Presentación de la Propiedad --> Seguimiento --> Negociación --> Cierre de la Venta --> Postventa
+
+
+### Uso del Formato Markdown
+
+Markdown es ideal porque:
+
+1. **Compatibilidad**: Muchos sistemas de gestión de documentos, wikis, y herramientas de colaboración en línea (como GitHub, GitLab, Confluence, Notion) soportan Markdown.
+2. **Simplicidad**: Es fácil de escribir y leer en su forma de texto plano.
+3. **Versatilidad**: Se puede convertir a otros formatos (HTML, PDF, Word) utilizando herramientas como Pandoc.
+4. **Control de Versiones**: Perfecto para control de versiones con sistemas como Git, permitiendo rastrear cambios y colaborar fácilmente.
+
+Puedes copiar y pegar este formato en tu herramienta de documentación preferida, asegurándote de que el contenido sea accesible y fácil de mantener.
+
